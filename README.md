@@ -1,6 +1,6 @@
 ----------------------------------BIENVENIDOS----------------------------------------
 
-Sean bienvenidos a descargar LectorEpub - Daigo's version 
+Sean bienvenidos a descargar LectorEpub - Daigo's version.
 
 Instrucciones:
 
@@ -8,9 +8,9 @@ Instrucciones:
 
 "Download ZIP".
 
-2.- Extraer LectorEPUB.zip en la carpeta donde se haya descargado. 
+2.- Extraer LectorEPUB-main.zip en la carpeta donde se haya descargado. 
 
-3.- Abrir lectorexe.exe.
+3.- Abrir LectorEPUB-main > Abrir lectorexe.exe.
 
 4.- Seleccionar un libro en formato EPUB.
 
