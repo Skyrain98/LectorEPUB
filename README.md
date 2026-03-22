@@ -17,4 +17,4 @@ Instrucciones:
 5.- Puedes leer tranquilo virtualmente ahora tus libros favoritos.
 
 Advertencia: Puede que Windows bloquee la ejecución. De ser así ello puede solucionarse
-con clic derecho en lectorexe > propiedades > desbloquear app.
+con clic derecho en lectorexe > propiedades > desbloquear app o ejecutar de todas formas.
